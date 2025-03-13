@@ -1,0 +1,5 @@
+module breweryfinder
+typeinfo breweryfinderApp.qmltypes
+prefer :/qt/qml/breweryfinder/
+Main 1.0 Main.qml
+

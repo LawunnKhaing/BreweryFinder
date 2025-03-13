@@ -1,0 +1,6 @@
+module qmlModule
+typeinfo qtquickview.qmltypes
+prefer :/qt/qml/qmlModule/
+Main 1.0 Main.qml
+Second 1.0 Second.qml
+

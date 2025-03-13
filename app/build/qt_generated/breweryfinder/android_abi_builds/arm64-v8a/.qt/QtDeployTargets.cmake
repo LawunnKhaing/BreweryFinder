@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_breweryfinderApp_FILE /home/lawunn/qttest/qtquick_brewery/app/build/qt_generated/breweryfinder/android_abi_builds/arm64-v8a/libbreweryfinderApp_arm64-v8a.so)
+set(__QT_DEPLOY_TARGET_breweryfinderApp_TYPE MODULE_LIBRARY)

@@ -1,0 +1,5 @@
+--resource
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtbreweryfinder/android_abi_builds/arm64-v8a/.qt/rcc/qmake_qtbreweryfinder.qrc
+--resource
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtbreweryfinder/android_abi_builds/arm64-v8a/.qt/rcc/qtbreweryfinderApp_raw_qml_0.qrc
+/qt/qml/qtbreweryfinder/Main.qml

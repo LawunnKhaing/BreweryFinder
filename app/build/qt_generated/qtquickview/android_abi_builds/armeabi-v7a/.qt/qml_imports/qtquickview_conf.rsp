@@ -1,0 +1,14 @@
+-rootPath
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview
+-cmake-output
+-output-file
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtquickview/android_abi_builds/armeabi-v7a/.qt/qml_imports/qtquickview_conf.cmake
+-importPath
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtquickview/android_abi_builds/armeabi-v7a/qmlModule
+-importPath
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtquickview/android_abi_builds/armeabi-v7a
+-importPath
+/home/lawunn/Qt/6.8.2/android_armv7/qml
+-qrcFiles
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtquickview/android_abi_builds/armeabi-v7a/.qt/rcc/qmake_qmlModule.qrc
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtquickview/android_abi_builds/armeabi-v7a/.qt/rcc/qtquickview_raw_qml_0.qrc

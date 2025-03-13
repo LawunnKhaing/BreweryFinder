@@ -1,0 +1,14 @@
+-rootPath
+/home/lawunn/qttest/breweryfinder
+-cmake-output
+-output-file
+/home/lawunn/qttest/qtquick_brewery/app/build/qt_generated/breweryfinder/.qt/qml_imports/breweryfinderApp_conf.cmake
+-importPath
+/home/lawunn/qttest/qtquick_brewery/app/build/qt_generated/breweryfinder/qmlModule
+-importPath
+/home/lawunn/qttest/qtquick_brewery/app/build/qt_generated/breweryfinder
+-importPath
+/home/lawunn/Qt/6.8.2/android_x86/qml
+-qrcFiles
+/home/lawunn/qttest/qtquick_brewery/app/build/qt_generated/breweryfinder/.qt/rcc/qmake_qmlModule.qrc
+/home/lawunn/qttest/qtquick_brewery/app/build/qt_generated/breweryfinder/.qt/rcc/breweryfinderApp_raw_qml_0.qrc
