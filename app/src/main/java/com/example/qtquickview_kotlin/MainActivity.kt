@@ -23,39 +23,26 @@ class MainActivity : AppCompatActivity(), QtQmlStatusChangeListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        // ✅ Inflate ViewBinding
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // ✅ Initialize QtQuickView
         qtQuickView = QtQuickView(this)
 
-        // ✅ Set QML Status Change Listener
         mainQmlContent.setStatusChangeListener(this)
 
-        // ✅ Add QtQuickView to FrameLayout
         val params = FrameLayout.LayoutParams(
             ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT
         )
         binding.qmlContainer.addView(qtQuickView, params)
 
-        // ✅ Load QML from compiled module (not raw file)
         qtQuickView!!.loadContent(mainQmlContent)
         qmlBridge = QmlBridge(this)
 
-        // ✅ Button Click Listener for fetching Brewery data
         binding.fetchButton.setOnClickListener {
             binding.titleText.text = "Fetching Brewery Data..."
             qmlBridge.fetchBreweryData()
         }
     }
-
-
-    /*fun updateQmlData(northern: String, southern: String, longest: String) {
-        qtQuickView?.setProperty("northernMostText", "Northern Most Brewery: $northern")
-        qtQuickView?.setProperty("southernMostText", "Southern Most Brewery: $southern")
-        qtQuickView?.setProperty("longestNameText", "Longest Name Brewery: $longest")
-    }*/
 
     fun updateQmlData(northern: String, southern: String, longest: String) {
         runOnUiThread {

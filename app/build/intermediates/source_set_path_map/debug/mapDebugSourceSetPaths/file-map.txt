@@ -3,9 +3,9 @@ com.example.qtquickview_kotlin.app-cardview-1.0.0-1 /home/lawunn/.gradle/caches/
 com.example.qtquickview_kotlin.app-lifecycle-runtime-2.6.2-2 /home/lawunn/.gradle/caches/8.11.1/transforms/10b52cb0430ee9f40e2311f02996a975/transformed/lifecycle-runtime-2.6.2/res
 com.example.qtquickview_kotlin.app-material-1.12.0-3 /home/lawunn/.gradle/caches/8.11.1/transforms/11793e9aca53b4a5980e363f4e0ba108/transformed/material-1.12.0/res
 com.example.qtquickview_kotlin.app-emoji2-1.3.0-4 /home/lawunn/.gradle/caches/8.11.1/transforms/13084027de57c634cffee983a2741013/transformed/emoji2-1.3.0/res
-com.example.qtquickview_kotlin.app-profileinstaller-1.3.1-5 /home/lawunn/.gradle/caches/8.11.1/transforms/1a367768304d6d9f2851769fc5b7f234/transformed/profileinstaller-1.3.1/res
-com.example.qtquickview_kotlin.app-constraintlayout-2.1.4-6 /home/lawunn/.gradle/caches/8.11.1/transforms/1f1e76ca025c630b35fc7649a5668ebb/transformed/constraintlayout-2.1.4/res
-com.example.qtquickview_kotlin.app-breweryfinderApp-7 /home/lawunn/.gradle/caches/8.11.1/transforms/316a3176fd8b7f69760c99eb5f3157e1/transformed/breweryfinderApp/res
+com.example.qtquickview_kotlin.app-breweryfinderApp-5 /home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res
+com.example.qtquickview_kotlin.app-profileinstaller-1.3.1-6 /home/lawunn/.gradle/caches/8.11.1/transforms/1a367768304d6d9f2851769fc5b7f234/transformed/profileinstaller-1.3.1/res
+com.example.qtquickview_kotlin.app-constraintlayout-2.1.4-7 /home/lawunn/.gradle/caches/8.11.1/transforms/1f1e76ca025c630b35fc7649a5668ebb/transformed/constraintlayout-2.1.4/res
 com.example.qtquickview_kotlin.app-viewpager2-1.0.0-8 /home/lawunn/.gradle/caches/8.11.1/transforms/34e3f4102d9a9e0f83d4718c87e1e65f/transformed/viewpager2-1.0.0/res
 com.example.qtquickview_kotlin.app-lifecycle-process-2.6.2-9 /home/lawunn/.gradle/caches/8.11.1/transforms/37fc715fba2dc181eb853b737e0f4cfd/transformed/lifecycle-process-2.6.2/res
 com.example.qtquickview_kotlin.app-activity-1.8.0-10 /home/lawunn/.gradle/caches/8.11.1/transforms/39164115ae22323601fb23871d1e21cb/transformed/activity-1.8.0/res

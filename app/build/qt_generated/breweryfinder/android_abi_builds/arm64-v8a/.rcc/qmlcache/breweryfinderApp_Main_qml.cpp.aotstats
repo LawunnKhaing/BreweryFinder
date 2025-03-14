@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 236,
+                        "durationMicroseconds": 225,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 19
@@ -14,34 +14,34 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 19,
-                        "durationMicroseconds": 82,
+                        "durationMicroseconds": 99,
                         "errorMessage": "Cannot access value for name northernMostBrewery",
                         "functionName": "text",
-                        "line": 25
+                        "line": 24
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 19,
-                        "durationMicroseconds": 70,
+                        "durationMicroseconds": 79,
                         "errorMessage": "Cannot access value for name southernMostBrewery",
                         "functionName": "text",
-                        "line": 31
+                        "line": 29
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 19,
-                        "durationMicroseconds": 49,
+                        "durationMicroseconds": 52,
                         "errorMessage": "Cannot access value for name longestNameBrewery",
                         "functionName": "text",
-                        "line": 37
+                        "line": 34
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 28,
-                        "durationMicroseconds": 1373,
-                        "errorMessage": "",
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "Cannot access value for name northernMostBrewery",
                         "functionName": "onCompleted",
-                        "line": 41
+                        "line": 37
                     }
                 ],
                 "filepath": "/home/lawunn/qttest/breweryfinder/Main.qml"

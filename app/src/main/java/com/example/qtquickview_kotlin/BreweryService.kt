@@ -1,5 +1,5 @@
-package com.example.qtquickview_kotlin
-
+import com.example.qtquickview_kotlin.Brewery
+import com.example.qtquickview_kotlin.BreweryApi
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
@@ -14,14 +14,29 @@ object BreweryService {
     private val api = retrofit.create(BreweryApi::class.java)
 
     suspend fun fetchNorthernMostBrewery(): Brewery? {
-        return api.getBreweriesByDistance("55.0, -7.0").firstOrNull() ?: Brewery("N/A", "Unknown", null, null, "Ireland")
+        return try {
+            val breweries = api.getNorthernMostBrewery("Ireland")
+            breweries.maxByOrNull { it.latitude?.toDoubleOrNull() ?: Double.MIN_VALUE }
+        } catch (e: Exception) {
+            null
+        }
     }
 
     suspend fun fetchSouthernMostBrewery(): Brewery? {
-        return api.getBreweriesByDistance("51.0, -9.0").firstOrNull() ?: Brewery("N/A", "Unknown", null, null, "Ireland")
+        return try {
+            val breweries = api.getSouthernMostBrewery("Ireland")
+            breweries.minByOrNull { it.latitude?.toDoubleOrNull() ?: Double.MAX_VALUE }
+        } catch (e: Exception) {
+            null
+        }
     }
 
     suspend fun fetchLongestNameBrewery(): Brewery? {
-        return api.getLongestNameBrewery().maxByOrNull { it.name.length } ?: Brewery("N/A", "Unknown", null, null, "Ireland")
+        return try {
+            val breweries = api.getLongestNameBrewery("Ireland")
+            breweries.maxByOrNull { it.name.length }
+        } catch (e: Exception) {
+            null
+        }
     }
 }

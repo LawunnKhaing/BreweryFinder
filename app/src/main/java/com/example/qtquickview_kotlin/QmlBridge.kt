@@ -4,9 +4,7 @@ import android.util.Log
 import kotlinx.coroutines.*
 
 class QmlBridge(private val activity: MainActivity) {
-
     private val scope = CoroutineScope(Dispatchers.Main)
-
 
     fun fetchBreweryData() {
         scope.launch {
@@ -15,7 +13,6 @@ class QmlBridge(private val activity: MainActivity) {
                 val southernMost = withContext(Dispatchers.IO) { BreweryService.fetchSouthernMostBrewery() }
                 val longestName = withContext(Dispatchers.IO) { BreweryService.fetchLongestNameBrewery() }
 
-                // Use safe call (?.) and provide a default value
                 val northernName = northernMost?.name ?: "Unknown Brewery"
                 val southernName = southernMost?.name ?: "Unknown Brewery"
                 val longestNameBrewery = longestName?.name ?: "Unknown Brewery"

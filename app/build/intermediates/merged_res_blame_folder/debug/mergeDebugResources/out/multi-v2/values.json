@@ -154,7 +154,24 @@
                     }
                 },
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/316a3176fd8b7f69760c99eb5f3157e1/transformed/breweryfinderApp/res/values/values.xml",
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/b5f7d1c1366efda2c565cedad7d02786/transformed/startup-runtime-1.1.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
+                    },
+                    "to": {
+                        "startLines": "2119",
+                        "startColumns": "4",
+                        "startOffsets": "138679",
+                        "endColumns": "82",
+                        "endOffsets": "138757"
+                    }
+                },
+                {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values/values.xml",
                     "from": {
                         "startLines": "2,5,11,122,123,124,125,126",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -170,23 +187,6 @@
                         "endLines": "4,10,121,2128,2151,2282,2284,2285",
                         "endColumns": "12,12,12,50,136,40,39,47",
                         "endOffsets": "199,545,6822,140119,142150,160218,160329,160377"
-                    }
-                },
-                {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/b5f7d1c1366efda2c565cedad7d02786/transformed/startup-runtime-1.1.1/res/values/values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "82",
-                        "endOffsets": "133"
-                    },
-                    "to": {
-                        "startLines": "2119",
-                        "startColumns": "4",
-                        "startOffsets": "138679",
-                        "endColumns": "82",
-                        "endOffsets": "138757"
                     }
                 },
                 {
