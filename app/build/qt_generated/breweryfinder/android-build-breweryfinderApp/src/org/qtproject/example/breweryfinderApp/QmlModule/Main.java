@@ -50,16 +50,6 @@ public final class Main extends QtQuickViewContent {
     public int connectBottomChangeListener(QtSignalListener<Object> signalListener) {
         return connectSignalListener("bottom", Object.class, signalListener);
     }
-    public void setBottomLeftRadius(Double bottomLeftRadius) { setProperty("bottomLeftRadius", bottomLeftRadius); }
-    public Double getBottomLeftRadius() { return this.<Double>getProperty("bottomLeftRadius"); }
-    public int connectBottomLeftRadiusChangeListener(QtSignalListener<Double> signalListener) {
-        return connectSignalListener("bottomLeftRadius", Double.class, signalListener);
-    }
-    public void setBottomRightRadius(Double bottomRightRadius) { setProperty("bottomRightRadius", bottomRightRadius); }
-    public Double getBottomRightRadius() { return this.<Double>getProperty("bottomRightRadius"); }
-    public int connectBottomRightRadiusChangeListener(QtSignalListener<Double> signalListener) {
-        return connectSignalListener("bottomRightRadius", Double.class, signalListener);
-    }
     public Object getChildren() { return this.<Object>getProperty("children"); }
     public int connectChildrenChangeListener(QtSignalListener<Object> signalListener) {
         return connectSignalListener("children", Object.class, signalListener);
@@ -134,6 +124,16 @@ public final class Main extends QtQuickViewContent {
     public int connectLeftChangeListener(QtSignalListener<Object> signalListener) {
         return connectSignalListener("left", Object.class, signalListener);
     }
+    public void setLongestNameBrewery(String longestNameBrewery) { setProperty("longestNameBrewery", longestNameBrewery); }
+    public String getLongestNameBrewery() { return this.<String>getProperty("longestNameBrewery"); }
+    public int connectLongestNameBreweryChangeListener(QtSignalListener<String> signalListener) {
+        return connectSignalListener("longestNameBrewery", String.class, signalListener);
+    }
+    public void setNorthernMostBrewery(String northernMostBrewery) { setProperty("northernMostBrewery", northernMostBrewery); }
+    public String getNorthernMostBrewery() { return this.<String>getProperty("northernMostBrewery"); }
+    public int connectNorthernMostBreweryChangeListener(QtSignalListener<String> signalListener) {
+        return connectSignalListener("northernMostBrewery", String.class, signalListener);
+    }
     public void setObjectName(Object objectName) { setProperty("objectName", objectName); }
     public Object getObjectName() { return this.<Object>getProperty("objectName"); }
     public int connectObjectNameChangeListener(QtSignalListener<Object> signalListener) {
@@ -182,6 +182,11 @@ public final class Main extends QtQuickViewContent {
     public int connectSmoothChangeListener(QtSignalListener<Boolean> signalListener) {
         return connectSignalListener("smooth", Boolean.class, signalListener);
     }
+    public void setSouthernMostBrewery(String southernMostBrewery) { setProperty("southernMostBrewery", southernMostBrewery); }
+    public String getSouthernMostBrewery() { return this.<String>getProperty("southernMostBrewery"); }
+    public int connectSouthernMostBreweryChangeListener(QtSignalListener<String> signalListener) {
+        return connectSignalListener("southernMostBrewery", String.class, signalListener);
+    }
     public void setState(Object state) { setProperty("state", state); }
     public Object getState() { return this.<Object>getProperty("state"); }
     public int connectStateChangeListener(QtSignalListener<Object> signalListener) {
@@ -194,16 +199,6 @@ public final class Main extends QtQuickViewContent {
     public Object getTop() { return this.<Object>getProperty("top"); }
     public int connectTopChangeListener(QtSignalListener<Object> signalListener) {
         return connectSignalListener("top", Object.class, signalListener);
-    }
-    public void setTopLeftRadius(Double topLeftRadius) { setProperty("topLeftRadius", topLeftRadius); }
-    public Double getTopLeftRadius() { return this.<Double>getProperty("topLeftRadius"); }
-    public int connectTopLeftRadiusChangeListener(QtSignalListener<Double> signalListener) {
-        return connectSignalListener("topLeftRadius", Double.class, signalListener);
-    }
-    public void setTopRightRadius(Double topRightRadius) { setProperty("topRightRadius", topRightRadius); }
-    public Double getTopRightRadius() { return this.<Double>getProperty("topRightRadius"); }
-    public int connectTopRightRadiusChangeListener(QtSignalListener<Double> signalListener) {
-        return connectSignalListener("topRightRadius", Double.class, signalListener);
     }
     public Object getTransform() { return this.<Object>getProperty("transform"); }
     public int connectTransformChangeListener(QtSignalListener<Object> signalListener) {

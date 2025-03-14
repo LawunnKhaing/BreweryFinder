@@ -21,6 +21,23 @@
                     }
                 },
                 {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/316a3176fd8b7f69760c99eb5f3157e1/transformed/breweryfinderApp/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "147",
+                        "endOffsets": "243"
+                    },
+                    "to": {
+                        "startLines": "52",
+                        "startColumns": "4",
+                        "startOffsets": "4815",
+                        "endColumns": "147",
+                        "endOffsets": "4958"
+                    }
+                },
+                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/res/values-ro/values-ro.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -35,23 +52,6 @@
                         "startOffsets": "3559,3657,3759,3859,3958,4060,4169,10191",
                         "endColumns": "97,101,99,98,101,108,116,100",
                         "endOffsets": "3652,3754,3854,3953,4055,4164,4281,10287"
-                    }
-                },
-                {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/909c9049543b26d3d226d3ff3a30695f/transformed/breweryfinderApp/res/values-ro/values-ro.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "147",
-                        "endOffsets": "243"
-                    },
-                    "to": {
-                        "startLines": "52",
-                        "startColumns": "4",
-                        "startOffsets": "4815",
-                        "endColumns": "147",
-                        "endOffsets": "4958"
                     }
                 },
                 {

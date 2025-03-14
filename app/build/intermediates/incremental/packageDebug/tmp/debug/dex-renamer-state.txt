@@ -1,4 +1,4 @@
-#Fri Mar 14 23:07:01 EET 2025
+#Sat Mar 15 01:30:52 EET 2025
 base.0=/home/lawunn/qttest/qtquick_brewery/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/lawunn/qttest/qtquick_brewery/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/home/lawunn/qttest/qtquick_brewery/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
