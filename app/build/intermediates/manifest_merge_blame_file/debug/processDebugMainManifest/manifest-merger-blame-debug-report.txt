@@ -8,12 +8,12 @@
 8        android:minSdkVersion="28"
 9        android:targetSdkVersion="34" />
 10
-11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->[breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/909c9049543b26d3d226d3ff3a30695f/transformed/breweryfinderApp/AndroidManifest.xml:10:5-79
-11-->[breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/909c9049543b26d3d226d3ff3a30695f/transformed/breweryfinderApp/AndroidManifest.xml:10:22-76
-12    <uses-permission android:name="android.permission.INTERNET" />
-12-->[breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/909c9049543b26d3d226d3ff3a30695f/transformed/breweryfinderApp/AndroidManifest.xml:11:5-67
-12-->[breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/909c9049543b26d3d226d3ff3a30695f/transformed/breweryfinderApp/AndroidManifest.xml:11:22-64
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:4:5-67
+11-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/909c9049543b26d3d226d3ff3a30695f/transformed/breweryfinderApp/AndroidManifest.xml:10:5-79
+12-->[breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/909c9049543b26d3d226d3ff3a30695f/transformed/breweryfinderApp/AndroidManifest.xml:10:22-76
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 13-->[breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/909c9049543b26d3d226d3ff3a30695f/transformed/breweryfinderApp/AndroidManifest.xml:12:5-81
 13-->[breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/909c9049543b26d3d226d3ff3a30695f/transformed/breweryfinderApp/AndroidManifest.xml:12:22-78
@@ -31,45 +31,45 @@
 20-->[androidx.core:core:1.13.1] /home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 21
 22    <application
-22-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:5:5-24:19
+22-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:6:5-25:19
 23        android:allowBackup="true"
-23-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:6:9-35
+23-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:7:9-35
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 24-->[androidx.core:core:1.13.1] /home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 25        android:dataExtractionRules="@xml/data_extraction_rules"
-25-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:7:9-65
+25-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:8:9-65
 26        android:debuggable="true"
 27        android:extractNativeLibs="true"
 28        android:fullBackupContent="@xml/backup_rules"
-28-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:8:9-54
+28-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:9:9-54
 29        android:icon="@mipmap/ic_launcher"
-29-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:9:9-43
+29-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:10:9-43
 30        android:label="QT Brewery Finder"
-30-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:10:9-42
+30-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:11:9-42
 31        android:roundIcon="@mipmap/ic_launcher_round"
-31-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:11:9-54
+31-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:12:9-54
 32        android:supportsRtl="true"
-32-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:12:9-35
+32-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:13:9-35
 33        android:testOnly="true"
 34        android:theme="@style/Theme.qtquickview_kotlin" >
-34-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:13:9-56
+34-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:14:9-56
 35        <activity
-35-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:15:9-23:20
+35-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:16:9-24:20
 36            android:name="com.example.qtquickview_kotlin.MainActivity"
-36-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:16:13-41
+36-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:17:13-41
 37            android:configChanges="screenSize|screenLayout|orientation"
-37-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:18:13-72
+37-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:19:13-72
 38            android:exported="true" >
-38-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:17:13-36
+38-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:18:13-36
 39            <intent-filter>
-39-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:19:13-22:29
+39-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:20:13-23:29
 40                <action android:name="android.intent.action.MAIN" />
-40-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:20:17-69
-40-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:20:25-66
+40-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:21:17-69
+40-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:21:25-66
 41
 42                <category android:name="android.intent.category.LAUNCHER" />
-42-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:21:17-76
-42-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:21:27-74
+42-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:22:17-76
+42-->/home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:22:27-74
 43            </intent-filter>
 44        </activity>
 45

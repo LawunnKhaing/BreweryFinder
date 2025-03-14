@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity(), QtQmlStatusChangeListener {
 
     private lateinit var binding: ActivityMainBinding
     private var qtQuickView: QtQuickView? = null
-    private var mainQmlContent: Main = Main()  // ✅ Using QML module
+    private var mainQmlContent: Main = Main()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
