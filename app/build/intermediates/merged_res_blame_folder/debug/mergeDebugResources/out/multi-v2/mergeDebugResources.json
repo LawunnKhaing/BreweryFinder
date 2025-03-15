@@ -383,6 +383,23 @@
             "outputFile": "com.example.qtquickview_kotlin.app-debug-32:/values-pt-rBR_values-pt-rBR.arsc.flat",
             "map": [
                 {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "132",
+                        "endOffsets": "228"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4741",
+                        "endColumns": "132",
+                        "endOffsets": "4869"
+                    }
+                },
+                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/11793e9aca53b4a5980e363f4e0ba108/transformed/material-1.12.0/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80",
@@ -416,23 +433,6 @@
                         "startOffsets": "323,443,549,656,745,846,965,1050,1130,1221,1314,1409,1503,1603,1696,1791,1886,1977,2068,2153,2260,2371,2473,2581,2689,2799,2961,9789",
                         "endColumns": "119,105,106,88,100,118,84,79,90,92,94,93,99,92,94,94,90,90,84,106,110,101,107,107,109,161,99,85",
                         "endOffsets": "438,544,651,740,841,960,1045,1125,1216,1309,1404,1498,1598,1691,1786,1881,1972,2063,2148,2255,2366,2468,2576,2684,2794,2956,3056,9870"
-                    }
-                },
-                {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-pt-rBR/values-pt-rBR.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "132",
-                        "endOffsets": "228"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4741",
-                        "endColumns": "132",
-                        "endOffsets": "4869"
                     }
                 },
                 {
@@ -565,7 +565,7 @@
                     }
                 },
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-el/values-el.xml",
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-el/values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -944,6 +944,23 @@
                     }
                 },
                 {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "131",
+                        "endOffsets": "227"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4697",
+                        "endColumns": "131",
+                        "endOffsets": "4824"
+                    }
+                },
+                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/res/values-et/values-et.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -958,23 +975,6 @@
                         "startOffsets": "3461,3556,3658,3756,3859,3965,4070,9967",
                         "endColumns": "94,101,97,102,105,104,119,100",
                         "endOffsets": "3551,3653,3751,3854,3960,4065,4185,10063"
-                    }
-                },
-                {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-et/values-et.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "131",
-                        "endOffsets": "227"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4697",
-                        "endColumns": "131",
-                        "endOffsets": "4824"
                     }
                 },
                 {
@@ -1227,7 +1227,7 @@
                     }
                 },
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-ro/values-ro.xml",
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-ro/values-ro.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1512,7 +1512,7 @@
             "outputFile": "com.example.qtquickview_kotlin.app-debug-32:/values-se_values-se.arsc.flat",
             "map": [
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-se/values-se.xml",
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-se/values-se.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1953,23 +1953,6 @@
                     }
                 },
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-zh-rTW/values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "95",
-                        "endOffsets": "191"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4329",
-                        "endColumns": "95",
-                        "endOffsets": "4420"
-                    }
-                },
-                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -2001,6 +1984,23 @@
                         "startOffsets": "297,392,485,585,667,764,872,949,1024,1116,1210,1307,1403,1498,1592,1688,1780,1872,1964,2042,2138,2233,2328,2425,2521,2619,2769,8654",
                         "endColumns": "94,92,99,81,96,107,76,74,91,93,96,95,94,93,95,91,91,91,77,95,94,94,96,95,97,149,93,78",
                         "endOffsets": "387,480,580,662,759,867,944,1019,1111,1205,1302,1398,1493,1587,1683,1775,1867,1959,2037,2133,2228,2323,2420,2516,2614,2764,2858,8728"
+                    }
+                },
+                {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "95",
+                        "endOffsets": "191"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4329",
+                        "endColumns": "95",
+                        "endOffsets": "4420"
                     }
                 }
             ]
@@ -2084,6 +2084,23 @@
                     }
                 },
                 {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "104",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4386",
+                        "endColumns": "104",
+                        "endOffsets": "4486"
+                    }
+                },
+                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/res/values-ja/values-ja.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -2098,23 +2115,6 @@
                         "startOffsets": "3252,3344,3444,3538,3634,3727,3820,9092",
                         "endColumns": "91,99,93,95,92,92,100,100",
                         "endOffsets": "3339,3439,3533,3629,3722,3815,3916,9188"
-                    }
-                },
-                {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-ja/values-ja.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "104",
-                        "endOffsets": "200"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4386",
-                        "endColumns": "104",
-                        "endOffsets": "4486"
                     }
                 },
                 {
@@ -2195,7 +2195,7 @@
                     }
                 },
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-fr/values-fr.xml",
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2438,6 +2438,23 @@
                     }
                 },
                 {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "147",
+                        "endOffsets": "243"
+                    },
+                    "to": {
+                        "startLines": "53",
+                        "startColumns": "4",
+                        "startOffsets": "4870",
+                        "endColumns": "147",
+                        "endOffsets": "5013"
+                    }
+                },
+                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/res/values-ru/values-ru.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -2452,23 +2469,6 @@
                         "startOffsets": "3577,3675,3777,3878,3979,4084,4187,10226",
                         "endColumns": "97,101,100,100,104,102,116,100",
                         "endOffsets": "3670,3772,3873,3974,4079,4182,4299,10322"
-                    }
-                },
-                {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-ru/values-ru.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "147",
-                        "endOffsets": "243"
-                    },
-                    "to": {
-                        "startLines": "53",
-                        "startColumns": "4",
-                        "startOffsets": "4870",
-                        "endColumns": "147",
-                        "endOffsets": "5013"
                     }
                 },
                 {
@@ -3169,6 +3169,23 @@
                     }
                 },
                 {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "142",
+                        "endOffsets": "238"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4658",
+                        "endColumns": "142",
+                        "endOffsets": "4796"
+                    }
+                },
+                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/res/values-fa/values-fa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -3183,23 +3200,6 @@
                         "startOffsets": "3413,3512,3614,3713,3813,3914,4020,9848",
                         "endColumns": "98,101,98,99,100,105,116,100",
                         "endOffsets": "3507,3609,3708,3808,3909,4015,4132,9944"
-                    }
-                },
-                {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-fa/values-fa.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "142",
-                        "endOffsets": "238"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4658",
-                        "endColumns": "142",
-                        "endOffsets": "4796"
                     }
                 }
             ]
@@ -3434,6 +3434,23 @@
                     }
                 },
                 {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "141",
+                        "endOffsets": "237"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4742",
+                        "endColumns": "141",
+                        "endOffsets": "4879"
+                    }
+                },
+                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/res/values-it/values-it.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -3448,23 +3465,6 @@
                         "startOffsets": "3448,3546,3648,3747,3849,3958,4065,10153",
                         "endColumns": "97,101,98,101,108,106,129,100",
                         "endOffsets": "3541,3643,3742,3844,3953,4060,4190,10249"
-                    }
-                },
-                {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-it/values-it.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "141",
-                        "endOffsets": "237"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4742",
-                        "endColumns": "141",
-                        "endOffsets": "4879"
                     }
                 }
             ]
@@ -3832,7 +3832,7 @@
             "outputFile": "com.example.qtquickview_kotlin.app-debug-32:/values-nl_values-nl.arsc.flat",
             "map": [
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-nl/values-nl.xml",
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-nl/values-nl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -4160,23 +4160,6 @@
                     }
                 },
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-zh-rCN/values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "95",
-                        "endOffsets": "191"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4321",
-                        "endColumns": "95",
-                        "endOffsets": "4412"
-                    }
-                },
-                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/11793e9aca53b4a5980e363f4e0ba108/transformed/material-1.12.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80",
@@ -4193,6 +4176,23 @@
                         "endLines": "5,33,34,35,36,37,45,46,47,48,49,50,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,114,115,116",
                         "endColumns": "12,63,61,69,69,76,90,105,72,50,61,76,58,58,77,60,56,55,58,57,53,84,55,57,53,64,91,73,71,78,73,75,121,61,61,98,78,73,49,50,65,63,68,70,70,60,70,66,59,85,78,66,82,84,73,64,75,47,72,63,75,77,61,63,62,64,79,75,77,75,53,54,68,74,72,69",
                         "endOffsets": "292,2913,2975,3045,3115,3192,3947,4053,4126,4177,4239,4316,4471,4530,4608,4669,4726,4782,4841,4899,4953,5038,5094,5152,5206,5271,5363,5437,5509,5588,5662,5738,5860,5922,5984,6083,6162,6236,6286,6337,6403,6467,6536,6607,6678,6739,6810,6877,6937,7023,7102,7169,7252,7337,7411,7476,7552,7600,7673,7737,7813,7891,7953,8017,8080,8145,8225,8301,8379,8455,8509,8564,8633,8787,8860,8930"
+                    }
+                },
+                {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "95",
+                        "endOffsets": "191"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4321",
+                        "endColumns": "95",
+                        "endOffsets": "4412"
                     }
                 }
             ]
@@ -4218,6 +4218,23 @@
                     }
                 },
                 {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "169",
+                        "endOffsets": "265"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4753",
+                        "endColumns": "169",
+                        "endOffsets": "4918"
+                    }
+                },
+                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/11793e9aca53b4a5980e363f4e0ba108/transformed/material-1.12.0/res/values-de/values-de.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80",
@@ -4234,23 +4251,6 @@
                         "endLines": "5,33,34,35,36,37,45,46,47,48,49,50,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,114,115,116",
                         "endColumns": "12,90,88,83,89,81,100,121,80,61,65,93,69,58,107,65,68,57,71,63,53,127,59,61,53,77,136,91,77,93,85,83,144,83,85,132,89,78,56,50,65,73,81,70,74,73,77,71,73,109,91,81,88,88,73,77,85,54,78,66,79,83,61,63,62,68,106,106,98,105,60,54,81,82,76,75",
                         "endOffsets": "328,3146,3235,3319,3409,3491,4323,4445,4526,4588,4654,4748,4988,5047,5155,5221,5290,5348,5420,5484,5538,5666,5726,5788,5842,5920,6057,6149,6227,6321,6407,6491,6636,6720,6806,6939,7029,7108,7165,7216,7282,7356,7438,7509,7584,7658,7736,7808,7882,7992,8084,8166,8255,8344,8418,8496,8582,8637,8716,8783,8863,8947,9009,9073,9136,9205,9312,9419,9518,9624,9685,9740,9822,9987,10064,10140"
-                    }
-                },
-                {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-de/values-de.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "169",
-                        "endOffsets": "265"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4753",
-                        "endColumns": "169",
-                        "endOffsets": "4918"
                     }
                 },
                 {
@@ -4333,23 +4333,6 @@
                     }
                 },
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-nb/values-nb.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "129",
-                        "endOffsets": "225"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4589",
-                        "endColumns": "129",
-                        "endOffsets": "4714"
-                    }
-                },
-                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/res/values-nb/values-nb.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -4364,6 +4347,23 @@
                         "startOffsets": "3348,3442,3544,3641,3740,3848,3954,9724",
                         "endColumns": "93,101,96,98,107,105,119,100",
                         "endOffsets": "3437,3539,3636,3735,3843,3949,4069,9820"
+                    }
+                },
+                {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "129",
+                        "endOffsets": "225"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4589",
+                        "endColumns": "129",
+                        "endOffsets": "4714"
                     }
                 },
                 {
@@ -4445,23 +4445,6 @@
             "outputFile": "com.example.qtquickview_kotlin.app-debug-32:/values-pl_values-pl.arsc.flat",
             "map": [
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-pl/values-pl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "127",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "53",
-                        "startColumns": "4",
-                        "startOffsets": "4807",
-                        "endColumns": "127",
-                        "endOffsets": "4930"
-                    }
-                },
-                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/res/values-pl/values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -4493,6 +4476,23 @@
                         "startOffsets": "436,551,653,761,847,954,1073,1152,1228,1319,1412,1507,1601,1702,1795,1890,1985,2076,2167,2249,2358,2458,2557,2666,2778,2889,3052,9821",
                         "endColumns": "114,101,107,85,106,118,78,75,90,92,94,93,100,92,94,94,90,90,81,108,99,98,108,111,110,162,95,82",
                         "endOffsets": "546,648,756,842,949,1068,1147,1223,1314,1407,1502,1596,1697,1790,1885,1980,2071,2162,2244,2353,2453,2552,2661,2773,2884,3047,3143,9899"
+                    }
+                },
+                {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "127",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "53",
+                        "startColumns": "4",
+                        "startOffsets": "4807",
+                        "endColumns": "127",
+                        "endOffsets": "4930"
                     }
                 },
                 {
@@ -4768,23 +4768,6 @@
             "outputFile": "com.example.qtquickview_kotlin.app-debug-32:/values-ms_values-ms.arsc.flat",
             "map": [
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-ms/values-ms.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "133",
-                        "endOffsets": "229"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4714",
-                        "endColumns": "133",
-                        "endOffsets": "4843"
-                    }
-                },
-                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/6cdd081e29af39c545811424a304bc65/transformed/core-1.13.1/res/values-ms/values-ms.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -4835,6 +4818,23 @@
                         "startOffsets": "329,440,545,653,740,844,955,1034,1112,1203,1296,1391,1485,1583,1676,1771,1865,1956,2047,2127,2239,2347,2444,2553,2657,2764,2923,9642",
                         "endColumns": "110,104,107,86,103,110,78,77,90,92,94,93,97,92,94,93,90,90,79,111,107,96,108,103,106,158,100,80",
                         "endOffsets": "435,540,648,735,839,950,1029,1107,1198,1291,1386,1480,1578,1671,1766,1860,1951,2042,2122,2234,2342,2439,2548,2652,2759,2918,3019,9718"
+                    }
+                },
+                {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "133",
+                        "endOffsets": "229"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4714",
+                        "endColumns": "133",
+                        "endOffsets": "4843"
                     }
                 }
             ]
@@ -4937,7 +4937,7 @@
                     }
                 },
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-in/values-in.xml",
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-in/values-in.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -5331,23 +5331,6 @@
             "outputFile": "com.example.qtquickview_kotlin.app-debug-32:/values-es_values-es.arsc.flat",
             "map": [
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values-es/values-es.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endColumns": "139",
-                        "endOffsets": "235"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "4764",
-                        "endColumns": "139",
-                        "endOffsets": "4899"
-                    }
-                },
-                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/11793e9aca53b4a5980e363f4e0ba108/transformed/material-1.12.0/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80",
@@ -5398,6 +5381,23 @@
                         "startOffsets": "328,430,543,651,736,837,965,1051,1132,1224,1318,1415,1509,1609,1703,1799,1895,1987,2079,2161,2268,2379,2478,2586,2694,2801,2960,9876",
                         "endColumns": "101,112,107,84,100,127,85,80,91,93,96,93,99,93,95,95,91,91,81,106,110,98,107,107,106,158,98,82",
                         "endOffsets": "425,538,646,731,832,960,1046,1127,1219,1313,1410,1504,1604,1698,1794,1890,1982,2074,2156,2263,2374,2473,2581,2689,2796,2955,3054,9954"
+                    }
+                },
+                {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "139",
+                        "endOffsets": "235"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "4764",
+                        "endColumns": "139",
+                        "endOffsets": "4899"
                     }
                 }
             ]
@@ -5739,25 +5739,6 @@
                     }
                 },
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values/values.xml",
-                    "from": {
-                        "startLines": "2,5,11,122,123,124,125,126",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,154,500,6777,6828,6965,7006,7046",
-                        "endLines": "4,10,121,122,123,124,125,126",
-                        "endColumns": "12,12,12,50,136,40,39,47",
-                        "endOffsets": "149,495,6772,6823,6960,7001,7041,7089"
-                    },
-                    "to": {
-                        "startLines": "2,5,11,2128,2151,2282,2284,2285",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "150,204,550,140073,142018,160182,160294,160334",
-                        "endLines": "4,10,121,2128,2151,2282,2284,2285",
-                        "endColumns": "12,12,12,50,136,40,39,47",
-                        "endOffsets": "199,545,6822,140119,142150,160218,160329,160377"
-                    }
-                },
-                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/b084615eed8591f8b519c54973d3a8b6/transformed/drawerlayout-1.1.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -5952,6 +5933,25 @@
                         "endLines": "1946,1979,2019,11649,11653",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "128210,129905,131972,733801,733950"
+                    }
+                },
+                {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,5,11,122,123,124,125,126",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,154,500,6777,6828,6965,7006,7046",
+                        "endLines": "4,10,121,122,123,124,125,126",
+                        "endColumns": "12,12,12,50,136,40,39,47",
+                        "endOffsets": "149,495,6772,6823,6960,7001,7041,7089"
+                    },
+                    "to": {
+                        "startLines": "2,5,11,2128,2151,2282,2284,2285",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "150,204,550,140073,142018,160182,160294,160334",
+                        "endLines": "4,10,121,2128,2151,2282,2284,2285",
+                        "endColumns": "12,12,12,50,136,40,39,47",
+                        "endOffsets": "199,545,6822,140119,142150,160218,160329,160377"
                     }
                 },
                 {

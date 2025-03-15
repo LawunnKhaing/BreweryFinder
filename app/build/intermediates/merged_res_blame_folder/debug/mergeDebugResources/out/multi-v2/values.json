@@ -171,25 +171,6 @@
                     }
                 },
                 {
-                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/17b6a33781c21d27a7df884ad6cd21ff/transformed/breweryfinderApp/res/values/values.xml",
-                    "from": {
-                        "startLines": "2,5,11,122,123,124,125,126",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,154,500,6777,6828,6965,7006,7046",
-                        "endLines": "4,10,121,122,123,124,125,126",
-                        "endColumns": "12,12,12,50,136,40,39,47",
-                        "endOffsets": "149,495,6772,6823,6960,7001,7041,7089"
-                    },
-                    "to": {
-                        "startLines": "2,5,11,2128,2151,2282,2284,2285",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "150,204,550,140073,142018,160182,160294,160334",
-                        "endLines": "4,10,121,2128,2151,2282,2284,2285",
-                        "endColumns": "12,12,12,50,136,40,39,47",
-                        "endOffsets": "199,545,6822,140119,142150,160218,160329,160377"
-                    }
-                },
-                {
                     "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/b084615eed8591f8b519c54973d3a8b6/transformed/drawerlayout-1.1.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -384,6 +365,25 @@
                         "endLines": "1946,1979,2019,11649,11653",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "128210,129905,131972,733801,733950"
+                    }
+                },
+                {
+                    "source": "/home/lawunn/.gradle/caches/8.11.1/transforms/bf96e93194350eb6665c12d45948485e/transformed/breweryfinderApp/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,5,11,122,123,124,125,126",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,154,500,6777,6828,6965,7006,7046",
+                        "endLines": "4,10,121,122,123,124,125,126",
+                        "endColumns": "12,12,12,50,136,40,39,47",
+                        "endOffsets": "149,495,6772,6823,6960,7001,7041,7089"
+                    },
+                    "to": {
+                        "startLines": "2,5,11,2128,2151,2282,2284,2285",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "150,204,550,140073,142018,160182,160294,160334",
+                        "endLines": "4,10,121,2128,2151,2282,2284,2285",
+                        "endColumns": "12,12,12,50,136,40,39,47",
+                        "endOffsets": "199,545,6822,140119,142150,160218,160329,160377"
                     }
                 },
                 {

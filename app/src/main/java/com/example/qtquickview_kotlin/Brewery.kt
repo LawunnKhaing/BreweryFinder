@@ -5,5 +5,6 @@ data class Brewery(
     val name: String,
     val latitude: String?,
     val longitude: String?,
-    val country: String
+    val city: String?,
+    val country: String?
 )

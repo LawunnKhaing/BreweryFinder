@@ -54,6 +54,12 @@ class MainActivity : AppCompatActivity(), QtQmlStatusChangeListener {
         }
     }
 
+    fun updateTitleText(newText: String) {
+        runOnUiThread {
+            binding.titleText.text = newText
+        }
+    }
+
     override fun onStatusChanged(status: QtQmlStatus?) {
         if (status == QtQmlStatus.READY) {
             binding.titleText.text = "Welcome to Brewery Finder"

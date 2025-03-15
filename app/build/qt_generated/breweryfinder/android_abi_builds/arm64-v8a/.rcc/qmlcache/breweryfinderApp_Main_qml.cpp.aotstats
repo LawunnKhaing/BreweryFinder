@@ -5,43 +5,75 @@
                 "entries": [
                     {
                         "codegenSuccessfull": true,
-                        "column": 27,
-                        "durationMicroseconds": 225,
+                        "column": 18,
+                        "durationMicroseconds": 596,
                         "errorMessage": "",
-                        "functionName": "centerIn",
+                        "functionName": "top",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "left",
                         "line": 19
                     },
                     {
-                        "codegenSuccessfull": false,
-                        "column": 19,
-                        "durationMicroseconds": 99,
-                        "errorMessage": "Cannot access value for name northernMostBrewery",
-                        "functionName": "text",
-                        "line": 24
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 20
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 19,
-                        "durationMicroseconds": 79,
+                        "column": 23,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name northernMostBrewery",
+                        "functionName": "text",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 49,
                         "errorMessage": "Cannot access value for name southernMostBrewery",
                         "functionName": "text",
-                        "line": 29
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 55
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 19,
-                        "durationMicroseconds": 52,
+                        "column": 23,
+                        "durationMicroseconds": 47,
                         "errorMessage": "Cannot access value for name longestNameBrewery",
                         "functionName": "text",
-                        "line": 34
+                        "line": 68
                     },
                     {
-                        "codegenSuccessfull": false,
-                        "column": 33,
-                        "durationMicroseconds": 100,
-                        "errorMessage": "Cannot access value for name northernMostBrewery",
-                        "functionName": "onCompleted",
-                        "line": 37
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 71
                     }
                 ],
                 "filepath": "/home/lawunn/qttest/breweryfinder/Main.qml"

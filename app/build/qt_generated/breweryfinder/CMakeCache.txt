@@ -351,6 +351,9 @@ Qt6Gui_DIR:PATH=/home/lawunn/Qt/6.8.2/android_x86/lib/cmake/Qt6Gui
 //The directory containing a CMake configuration file for Qt6HostInfo.
 Qt6HostInfo_DIR:PATH=/home/lawunn/Qt/6.8.2/gcc_64/lib/cmake/Qt6HostInfo
 
+//The directory containing a CMake configuration file for Qt6Location.
+Qt6Location_DIR:PATH=Qt6Location_DIR-NOTFOUND
+
 //The directory containing a CMake configuration file for Qt6Network.
 Qt6Network_DIR:PATH=/home/lawunn/Qt/6.8.2/android_x86/lib/cmake/Qt6Network
 
@@ -383,6 +386,9 @@ Qt6Qml_DIR:PATH=/home/lawunn/Qt/6.8.2/android_x86/lib/cmake/Qt6Qml
 
 //The directory containing a CMake configuration file for Qt6Quick.
 Qt6Quick_DIR:PATH=/home/lawunn/Qt/6.8.2/android_x86/lib/cmake/Qt6Quick
+
+//The directory containing a CMake configuration file for Qt6WebEngineQuick.
+Qt6WebEngineQuick_DIR:PATH=Qt6WebEngineQuick_DIR-NOTFOUND
 
 //The directory containing a CMake configuration file for Qt6.
 Qt6_DIR:PATH=/home/lawunn/Qt/6.8.2/android_x86/lib/cmake/Qt6

@@ -50,6 +50,16 @@ public final class Main extends QtQuickViewContent {
     public int connectBottomChangeListener(QtSignalListener<Object> signalListener) {
         return connectSignalListener("bottom", Object.class, signalListener);
     }
+    public void setBottomLeftRadius(Double bottomLeftRadius) { setProperty("bottomLeftRadius", bottomLeftRadius); }
+    public Double getBottomLeftRadius() { return this.<Double>getProperty("bottomLeftRadius"); }
+    public int connectBottomLeftRadiusChangeListener(QtSignalListener<Double> signalListener) {
+        return connectSignalListener("bottomLeftRadius", Double.class, signalListener);
+    }
+    public void setBottomRightRadius(Double bottomRightRadius) { setProperty("bottomRightRadius", bottomRightRadius); }
+    public Double getBottomRightRadius() { return this.<Double>getProperty("bottomRightRadius"); }
+    public int connectBottomRightRadiusChangeListener(QtSignalListener<Double> signalListener) {
+        return connectSignalListener("bottomRightRadius", Double.class, signalListener);
+    }
     public Object getChildren() { return this.<Object>getProperty("children"); }
     public int connectChildrenChangeListener(QtSignalListener<Object> signalListener) {
         return connectSignalListener("children", Object.class, signalListener);
@@ -199,6 +209,16 @@ public final class Main extends QtQuickViewContent {
     public Object getTop() { return this.<Object>getProperty("top"); }
     public int connectTopChangeListener(QtSignalListener<Object> signalListener) {
         return connectSignalListener("top", Object.class, signalListener);
+    }
+    public void setTopLeftRadius(Double topLeftRadius) { setProperty("topLeftRadius", topLeftRadius); }
+    public Double getTopLeftRadius() { return this.<Double>getProperty("topLeftRadius"); }
+    public int connectTopLeftRadiusChangeListener(QtSignalListener<Double> signalListener) {
+        return connectSignalListener("topLeftRadius", Double.class, signalListener);
+    }
+    public void setTopRightRadius(Double topRightRadius) { setProperty("topRightRadius", topRightRadius); }
+    public Double getTopRightRadius() { return this.<Double>getProperty("topRightRadius"); }
+    public int connectTopRightRadiusChangeListener(QtSignalListener<Double> signalListener) {
+        return connectSignalListener("topRightRadius", Double.class, signalListener);
     }
     public Object getTransform() { return this.<Object>getProperty("transform"); }
     public int connectTransformChangeListener(QtSignalListener<Object> signalListener) {

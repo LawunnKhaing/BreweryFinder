@@ -4,7 +4,7 @@ ADDED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:
 INJECTED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:2:1-27:12
 INJECTED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:2:1-27:12
-MERGED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/5190eeb880add90fce4cca28d3a581ff/transformed/breweryfinderApp/AndroidManifest.xml:2:1-14:12
+MERGED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/3167410052b2bd8207d82c86cc96969d/transformed/breweryfinderApp/AndroidManifest.xml:2:1-14:12
 MERGED from [androidx.databinding:viewbinding:8.9.0] /home/lawunn/.gradle/caches/8.11.1/transforms/004997756756529abd8dc5336a8e3cb7/transformed/viewbinding-8.9.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] /home/lawunn/.gradle/caches/8.11.1/transforms/11793e9aca53b4a5980e363f4e0ba108/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lawunn/.gradle/caches/8.11.1/transforms/1f1e76ca025c630b35fc7649a5668ebb/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
@@ -59,8 +59,8 @@ MERGED from [androidx.print:print:1.0.0] /home/lawunn/.gradle/caches/8.11.1/tran
 		ADDED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/5190eeb880add90fce4cca28d3a581ff/transformed/breweryfinderApp/AndroidManifest.xml:11:5-67
-MERGED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/5190eeb880add90fce4cca28d3a581ff/transformed/breweryfinderApp/AndroidManifest.xml:11:5-67
+MERGED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/3167410052b2bd8207d82c86cc96969d/transformed/breweryfinderApp/AndroidManifest.xml:11:5-67
+MERGED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/3167410052b2bd8207d82c86cc96969d/transformed/breweryfinderApp/AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:4:22-64
 application
@@ -126,8 +126,8 @@ uses-sdk
 INJECTED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml
 INJECTED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml
-MERGED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/5190eeb880add90fce4cca28d3a581ff/transformed/breweryfinderApp/AndroidManifest.xml:8:5-44
-MERGED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/5190eeb880add90fce4cca28d3a581ff/transformed/breweryfinderApp/AndroidManifest.xml:8:5-44
+MERGED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/3167410052b2bd8207d82c86cc96969d/transformed/breweryfinderApp/AndroidManifest.xml:8:5-44
+MERGED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/3167410052b2bd8207d82c86cc96969d/transformed/breweryfinderApp/AndroidManifest.xml:8:5-44
 MERGED from [androidx.databinding:viewbinding:8.9.0] /home/lawunn/.gradle/caches/8.11.1/transforms/004997756756529abd8dc5336a8e3cb7/transformed/viewbinding-8.9.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.9.0] /home/lawunn/.gradle/caches/8.11.1/transforms/004997756756529abd8dc5336a8e3cb7/transformed/viewbinding-8.9.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.12.0] /home/lawunn/.gradle/caches/8.11.1/transforms/11793e9aca53b4a5980e363f4e0ba108/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
@@ -217,13 +217,13 @@ MERGED from [androidx.print:print:1.0.0] /home/lawunn/.gradle/caches/8.11.1/tran
 	android:minSdkVersion
 		INJECTED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/5190eeb880add90fce4cca28d3a581ff/transformed/breweryfinderApp/AndroidManifest.xml:10:5-79
+ADDED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/3167410052b2bd8207d82c86cc96969d/transformed/breweryfinderApp/AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/5190eeb880add90fce4cca28d3a581ff/transformed/breweryfinderApp/AndroidManifest.xml:10:22-76
+		ADDED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/3167410052b2bd8207d82c86cc96969d/transformed/breweryfinderApp/AndroidManifest.xml:10:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/5190eeb880add90fce4cca28d3a581ff/transformed/breweryfinderApp/AndroidManifest.xml:12:5-81
+ADDED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/3167410052b2bd8207d82c86cc96969d/transformed/breweryfinderApp/AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/5190eeb880add90fce4cca28d3a581ff/transformed/breweryfinderApp/AndroidManifest.xml:12:22-78
+		ADDED from [breweryfinderApp.aar] /home/lawunn/.gradle/caches/8.11.1/transforms/3167410052b2bd8207d82c86cc96969d/transformed/breweryfinderApp/AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /home/lawunn/qttest/qtquick_brewery/app/src/main/AndroidManifest.xml:2:1-27:12 reason: org.qtproject.example.breweryfinderApp requested WRITE_EXTERNAL_STORAGE
 provider#androidx.startup.InitializationProvider
