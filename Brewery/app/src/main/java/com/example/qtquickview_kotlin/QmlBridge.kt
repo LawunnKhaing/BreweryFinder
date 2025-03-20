@@ -9,7 +9,7 @@ class QmlBridge(private val activity: MainActivity) {
 
     fun fetchBreweryData() {
         scope.launch {
-            activity.updateTitleText("Fetching Brewery Data...") // ✅ Use function instead of accessing binding
+            activity.updateTitleText("Fetching Brewery Data...")
 
             try {
                 val northernMost = withContext(Dispatchers.IO) { BreweryService.fetchNorthernMostBrewery() }
@@ -29,7 +29,7 @@ class QmlBridge(private val activity: MainActivity) {
 
             } catch (e: Exception) {
                 Log.e("QmlBridge", "Error fetching brewery data: ${e.message}")
-                activity.updateTitleText("Failed to fetch breweries ❌") // ✅ Show error message safely
+                activity.updateTitleText("Failed to fetch breweries ❌")
             }
         }
     }
