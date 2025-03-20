@@ -32,6 +32,17 @@ This project focuses on:
 ### **2️⃣ Structuring the Project**
 - Created a **Kotlin-based Android project**  
 - Added new QT project  
+- Modify your`build.gradle.kts` **(Project-level)** and add:
+
+gradle
+```
+QtBuild {
+    qtPath = file("/home/lawunn/Qt/6.8.2")  // Path to Qt installation
+    projectPath = file("/home/lawunn/qttest/qtquick_brewery/breweryfinder") // Path to the Qt project
+} 
+```
+- Without this, Gradle will not recognize Qt components and will fail to build the project.
+- If Qt-related references (like QtQuickView or QtQmlStatus) show "Unresolved Reference" errors, double-check that the QtBuild block is correctly configured.
 - Configured **Qt Gradle plugin** for compiling QML modules
 
 ### **3️⃣ Implementing Features**
