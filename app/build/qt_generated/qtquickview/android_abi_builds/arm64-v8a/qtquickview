@@ -1,8 +1,0 @@
-#!/bin/sh
-
-/home/lawunn/Qt/6.8.2/gcc_64/libexec/qt-android-runner.py \
-    --adb "/home/lawunn/Android/Sdk/platform-tools/adb" \
-    --build-path "/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtquickview/android_abi_builds/arm64-v8a/android-build-qtquickview" \
-    --apk "/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtquickview/android_abi_builds/arm64-v8a/android-build-qtquickview/qtquickview.apk" \
-    $@
-

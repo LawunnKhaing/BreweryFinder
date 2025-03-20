@@ -1,0 +1,8 @@
+#!/bin/sh
+
+/home/lawunn/Qt/6.8.2/gcc_64/libexec/qt-android-runner.py \
+    --adb "/home/lawunn/Android/Sdk/platform-tools/adb" \
+    --build-path "/home/lawunn/qttest/qtquick_brewery/Brewery/app/build/qt_generated/breweryfinder/android_abi_builds/arm64-v8a/android-build-breweryfinderApp" \
+    --apk "/home/lawunn/qttest/qtquick_brewery/Brewery/app/build/qt_generated/breweryfinder/android_abi_builds/arm64-v8a/android-build-breweryfinderApp/breweryfinderApp.apk" \
+    $@
+

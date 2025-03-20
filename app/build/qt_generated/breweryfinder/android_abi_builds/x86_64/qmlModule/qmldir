@@ -1,5 +1,0 @@
-module qmlModule
-typeinfo breweryfinderApp.qmltypes
-prefer :/qt/qml/qmlModule/
-Main 1.0 Main.qml
-

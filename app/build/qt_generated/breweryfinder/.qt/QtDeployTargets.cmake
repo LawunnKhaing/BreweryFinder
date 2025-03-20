@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_breweryfinderApp_FILE /home/lawunn/qttest/qtquick_brewery/app/build/qt_generated/breweryfinder/libbreweryfinderApp_x86.so)
-set(__QT_DEPLOY_TARGET_breweryfinderApp_TYPE MODULE_LIBRARY)

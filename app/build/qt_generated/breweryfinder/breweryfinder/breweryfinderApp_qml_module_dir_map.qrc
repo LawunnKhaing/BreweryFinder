@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/breweryfinder">/home/lawunn/qttest/qtquick_brewery/app/build/qt_generated/breweryfinder/breweryfinder</file>
-
-  </qresource>
-</RCC>

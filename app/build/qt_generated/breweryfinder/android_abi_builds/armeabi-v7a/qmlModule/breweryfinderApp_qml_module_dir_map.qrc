@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/qmlModule">/home/lawunn/qttest/qtquick_brewery/app/build/qt_generated/breweryfinder/android_abi_builds/armeabi-v7a/qmlModule</file>
-
-  </qresource>
-</RCC>

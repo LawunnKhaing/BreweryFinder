@@ -1,6 +1,0 @@
-/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/CMakeFiles/edit_cache.dir
-/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/CMakeFiles/rebuild_cache.dir
-/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/CMakeFiles/list_install_components.dir
-/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/CMakeFiles/install.dir
-/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/CMakeFiles/install/local.dir
-/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/CMakeFiles/install/strip.dir

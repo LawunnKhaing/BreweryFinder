@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.qtquickview_kotlin.app-mergeDebugResources-30:/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/lawunn/qttest/qtquick_brewery/Brewery/app/src/main/res/values-xxhdpi/dimens.xml",
+                    "from": {
+                        "startLines": "6,12,7,10,11,9,13,8,3,14,5,17,16,15,4,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "251,563,300,459,508,411,615,358,105,677,201,836,785,735,153,57",
+                        "endColumns": "47,50,56,47,53,46,60,51,46,56,48,46,49,48,46,46",
+                        "endOffsets": "294,609,352,502,557,453,671,405,147,729,245,878,830,779,195,99"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,154,211,259,313,360,421,473,520,577,626,673,723,772,819",
+                        "endColumns": "47,50,56,47,53,46,60,51,46,56,48,46,49,48,46,46",
+                        "endOffsets": "98,149,206,254,308,355,416,468,515,572,621,668,718,767,814,861"
+                    }
+                }
+            ]
+        }
+    ]
+}

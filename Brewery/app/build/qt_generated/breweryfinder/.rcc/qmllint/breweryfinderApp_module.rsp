@@ -1,0 +1,10 @@
+-I
+/home/lawunn/qttest/qtquick_brewery/Brewery/app/build/qt_generated/breweryfinder
+-I
+/home/lawunn/Qt/6.8.2/android_x86/qml
+--resource
+/home/lawunn/qttest/qtquick_brewery/Brewery/app/build/qt_generated/breweryfinder/.qt/rcc/qmake_qmlModule.qrc
+--resource
+/home/lawunn/qttest/qtquick_brewery/Brewery/app/build/qt_generated/breweryfinder/.qt/rcc/breweryfinderApp_raw_qml_0.qrc
+--module
+qmlModule

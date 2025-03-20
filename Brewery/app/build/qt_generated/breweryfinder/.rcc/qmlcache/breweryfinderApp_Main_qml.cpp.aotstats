@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 1468,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 464,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 382,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot access value for name northernMostBrewery",
+                        "functionName": "text",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 317,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name southernMostBrewery",
+                        "functionName": "text",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "Cannot access value for name longestNameBrewery",
+                        "functionName": "text",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 240,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 71
+                    }
+                ],
+                "filepath": "/home/lawunn/qttest/qtquick_brewery/breweryfinder/Main.qml"
+            }
+        ],
+        "moduleId": "qmlModule(breweryfinderApp)"
+    }
+]

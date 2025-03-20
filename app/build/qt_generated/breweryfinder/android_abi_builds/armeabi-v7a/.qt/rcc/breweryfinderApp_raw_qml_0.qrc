@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/qmlModule/">
-    <file alias="Main.qml">/home/lawunn/qttest/breweryfinder/Main.qml</file>
-  </qresource>
-</RCC>
-

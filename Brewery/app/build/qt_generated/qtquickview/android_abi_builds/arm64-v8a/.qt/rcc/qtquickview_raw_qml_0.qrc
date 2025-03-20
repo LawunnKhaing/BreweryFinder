@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/qmlModule/">
+    <file alias="Main.qml">/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview/Main.qml</file>
+    <file alias="Second.qml">/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview/Second.qml</file>
+  </qresource>
+</RCC>
+

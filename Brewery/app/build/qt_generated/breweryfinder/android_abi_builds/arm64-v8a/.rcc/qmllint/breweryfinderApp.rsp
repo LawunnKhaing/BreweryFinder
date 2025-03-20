@@ -1,0 +1,10 @@
+--bare
+-I
+/home/lawunn/qttest/qtquick_brewery/Brewery/app/build/qt_generated/breweryfinder/android_abi_builds/arm64-v8a
+-I
+/home/lawunn/Qt/6.8.2/android_arm64_v8a/qml
+--resource
+/home/lawunn/qttest/qtquick_brewery/Brewery/app/build/qt_generated/breweryfinder/android_abi_builds/arm64-v8a/.qt/rcc/qmake_qmlModule.qrc
+--resource
+/home/lawunn/qttest/qtquick_brewery/Brewery/app/build/qt_generated/breweryfinder/android_abi_builds/arm64-v8a/.qt/rcc/breweryfinderApp_raw_qml_0.qrc
+/home/lawunn/qttest/qtquick_brewery/breweryfinder/Main.qml

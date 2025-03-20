@@ -1,0 +1,10 @@
+-I
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtquickview
+-I
+/home/lawunn/Qt/6.8.2/android_x86/qml
+--resource
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtquickview/.qt/rcc/qmake_qmlModule.qrc
+--resource
+/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtquickview/.qt/rcc/qtquickview_raw_qml_0.qrc
+--module
+qmlModule

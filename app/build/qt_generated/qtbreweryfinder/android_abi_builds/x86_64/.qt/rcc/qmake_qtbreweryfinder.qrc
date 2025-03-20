@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/qtbreweryfinder">
-    <file alias="qmldir">/home/lawunn/Qt/Examples/Qt-6.8.2/platforms/android/qtquickview_kotlin/app/build/qt_generated/qtbreweryfinder/android_abi_builds/x86_64/qtbreweryfinder/qmldir</file>
-  </qresource>
-</RCC>
-
