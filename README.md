@@ -73,6 +73,11 @@ Another challenge was configuring **CMake and Gradle** correctly. I ran into mul
 
 Despite all the struggles, I finally managed to make Kotlin and QML work together, and it was a huge learning experience. I now have a much deeper understanding of **how Qt interacts with Android, how to debug complex build issues, and how QML can be used in a non-C++ environment**. This project was challenging, but overcoming these issues was rewarding.
 
+## 📌 Map Feature Attempt & Issues Faced
+
+I attempted to add a map feature using Qt Location and Qt Positioning, but I encountered several issues. It seems that some installations on Arch Linux might be missing dependencies required for proper map rendering. Since Qt Location and Positioning were installed correctly, the integration process should have been straightforward. However, the app failed to display the map properly, and I suspect the issue is related to missing Qt libraries or system dependencies.
+
+If Qt Location and Positioning are fully installed and configured, adding a map should be easy. But for now, due to these system-related errors, I decided to prioritize completing the API functionality first before troubleshooting the map further.
 
 ## Visuals
 Here are some screenshots of the app:
