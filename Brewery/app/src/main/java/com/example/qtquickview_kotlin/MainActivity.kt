@@ -1,7 +1,6 @@
 package com.example.qtquickview_kotlin
 
 import android.os.Bundle
-import android.util.Log
 import android.view.ViewGroup
 import android.widget.FrameLayout
 import androidx.appcompat.app.AppCompatActivity
@@ -10,6 +9,9 @@ import org.qtproject.example.breweryfinderApp.QmlModule.Main
 import org.qtproject.qt.android.QtQmlStatus
 import org.qtproject.qt.android.QtQmlStatusChangeListener
 import org.qtproject.qt.android.QtQuickView
+import android.content.Context
+import android.net.ConnectivityManager
+import android.net.NetworkCapabilities
 
 
 class MainActivity : AppCompatActivity(), QtQmlStatusChangeListener {
@@ -39,9 +41,20 @@ class MainActivity : AppCompatActivity(), QtQmlStatusChangeListener {
         qmlBridge = QmlBridge(this)
 
         binding.fetchButton.setOnClickListener {
-            binding.titleText.text = "Fetching Brewery Data..."
-            qmlBridge.fetchBreweryData()
+            if (isNetworkAvailable(this)) {
+                binding.titleText.text = "Fetching Brewery Data..."
+                qmlBridge.fetchBreweryData()
+            } else {
+                binding.titleText.text = "⚠️ No Internet Connection. Please check and try again."
+            }
         }
+    }
+
+    fun isNetworkAvailable(context: Context): Boolean {
+        val connectivityManager = context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
+        val network = connectivityManager.activeNetwork ?: return false
+        val networkCapabilities = connectivityManager.getNetworkCapabilities(network) ?: return false
+        return networkCapabilities.hasCapability(NetworkCapabilities.NET_CAPABILITY_INTERNET)
     }
 
     fun updateQmlData(northern: String, southern: String, longest: String) {

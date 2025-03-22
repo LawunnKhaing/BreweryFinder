@@ -24,7 +24,7 @@ class QmlBridge(private val activity: MainActivity) {
                         southernMost?.let { formatBreweryData(it) } ?: "Not Found",
                         longestName?.let { formatBreweryData(it) } ?: "Not Found"
                     )
-                    activity.updateTitleText("Breweries List Fetched ✅") // ✅ Update title text safely
+                    activity.updateTitleText("Breweries List Fetched ✅")
                 }
 
             } catch (e: Exception) {
