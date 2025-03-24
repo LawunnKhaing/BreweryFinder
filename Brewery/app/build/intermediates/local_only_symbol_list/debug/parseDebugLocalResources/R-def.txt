@@ -29,6 +29,7 @@ drawable switch_thumb
 drawable switch_track
 id fetchButton
 id qmlContainer
+id resetButton
 id titleText
 layout activity_main
 mipmap ic_launcher

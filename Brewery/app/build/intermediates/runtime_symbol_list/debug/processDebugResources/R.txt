@@ -3483,6 +3483,7 @@ int id radio 0x7f090166
 int id ratio 0x7f090167
 int id rectangles 0x7f090168
 int id report_drawn 0x7f090169
+int id resetButton 0x7f0901f7
 int id reverseSawtooth 0x7f09016a
 int id right 0x7f09016b
 int id rightToLeft 0x7f09016c

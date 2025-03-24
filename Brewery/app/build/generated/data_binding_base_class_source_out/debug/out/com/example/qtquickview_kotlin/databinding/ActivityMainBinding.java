@@ -28,13 +28,17 @@ public final class ActivityMainBinding implements ViewBinding {
   public final FrameLayout qmlContainer;
 
   @NonNull
+  public final Button resetButton;
+
+  @NonNull
   public final TextView titleText;
 
   private ActivityMainBinding(@NonNull LinearLayout rootView, @NonNull Button fetchButton,
-      @NonNull FrameLayout qmlContainer, @NonNull TextView titleText) {
+      @NonNull FrameLayout qmlContainer, @NonNull Button resetButton, @NonNull TextView titleText) {
     this.rootView = rootView;
     this.fetchButton = fetchButton;
     this.qmlContainer = qmlContainer;
+    this.resetButton = resetButton;
     this.titleText = titleText;
   }
 
@@ -77,13 +81,20 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.resetButton;
+      Button resetButton = ViewBindings.findChildViewById(rootView, id);
+      if (resetButton == null) {
+        break missingId;
+      }
+
       id = R.id.titleText;
       TextView titleText = ViewBindings.findChildViewById(rootView, id);
       if (titleText == null) {
         break missingId;
       }
 
-      return new ActivityMainBinding((LinearLayout) rootView, fetchButton, qmlContainer, titleText);
+      return new ActivityMainBinding((LinearLayout) rootView, fetchButton, qmlContainer,
+          resetButton, titleText);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

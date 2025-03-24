@@ -48,6 +48,10 @@ class MainActivity : AppCompatActivity(), QtQmlStatusChangeListener {
                 binding.titleText.text = "⚠️ No Internet Connection. Please check and try again."
             }
         }
+        binding.resetButton.setOnClickListener {
+            updateQmlData("Unknown", "Unknown", "Unknown")
+            binding.titleText.text = "Brewery info reset."
+        }
     }
 
     fun isNetworkAvailable(context: Context): Boolean {
